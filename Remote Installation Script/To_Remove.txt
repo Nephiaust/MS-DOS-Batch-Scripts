@@ -1,0 +1,11 @@
+; List of files (relative location to C:\) to remove
+Documents and Settings\All Users\Start Menu\Programs\iTunes\iTunes.lnk
+Documents and Settings\All Users\Start Menu\Programs\iTunes\About iTunes.lnk
+Documents and Settings\All Users\Start Menu\Programs\iTunes
+Documents and Settings\All Users\Start Menu\Programs\QuickTime\About QuickTime.lnk
+Documents and Settings\All Users\Start Menu\Programs\QuickTime\PictureViewer.lnk
+Documents and Settings\All Users\Start Menu\Programs\QuickTime\QuickTime Player.lnk
+Documents and Settings\All Users\Start Menu\Programs\QuickTime\Uninstall QuickTime.lnk
+Documents and Settings\All Users\Start Menu\Programs\QuickTime
+Documents and Settings\All Users\Desktop\QuickTime Player.lnk
+Documents and Settings\All Users\Desktop\iTunes.lnk

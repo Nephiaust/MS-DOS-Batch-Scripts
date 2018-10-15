@@ -1,0 +1,7 @@
+; The format is "Title","Command + Paramters"
+;
+; EXAMPLE -
+;OpenAudIT,C:\INSTALL\REMOTEAPPS\OPENAUDIT\AUDIT.VBS
+;
+
+

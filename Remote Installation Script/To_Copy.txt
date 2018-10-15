@@ -1,0 +1,3 @@
+iTunes (Activation Only Mode).lnk,Documents and Settings\All Users\Start Menu\Programs
+iTunes (Activation Only Mode).lnk,Documents and Settings\Internet\Start Menu\Programs
+iTunes (Activation Only Mode).lnk,Documents and Settings\All Users\Desktop

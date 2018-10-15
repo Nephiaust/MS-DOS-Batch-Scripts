@@ -1,0 +1,5 @@
+;
+; <Title>,<URL>,<Store location on remote PC>
+;
+
+Apple iTunes,http://10.0.0.150/UpLoads/iTunesSetup/,C:\Deploy\Applications
